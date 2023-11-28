@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # 👋 &nbsp;Hey there! I'm Tim
+## I'm junior Frotend Developer, under mentorship https://github.com/Lbdevaa
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuldik&count_private=true&show_icons=true&hide=issues,contribs)
