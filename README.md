@@ -22,4 +22,7 @@
 - 🌱 I’m currently learning JS/REACT.JS/TypeScript
 - 🤔 I’m looking for help with finding job
 
+### 🤝🏻 &nbsp;Connect with Me
+- <a href="mailto:tim.klimenkoo@gmail.com" style: display: flex align-itmes: center><img src="https://img.shields.io/badge/-tim.klimenkoo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
