@@ -1,5 +1,5 @@
 # 👋 &nbsp;Hey there! I'm Tim
-## I'm Frotend Developer, under mentorship https://github.com/Lbdevaa
+## I'm a Frotend Developer, under mentorship https://github.com/Lbdevaa
 
 ### ⚙️ &nbsp;GitHub Analytics
 
