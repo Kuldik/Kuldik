@@ -4,7 +4,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldik&theme=radical&count_private=true&show_icons=true&hide=issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuldik&theme=radical)
 
 ### 🛠 &nbsp;Tech Stack:
 Front:
