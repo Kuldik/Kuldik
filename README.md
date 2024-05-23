@@ -2,9 +2,10 @@
 ## I'm a Frotend Developer, under mentorship https://github.com/Lbdevaa
 ## My porfolio - https://kuldik.github.io/my_portfolio/
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuldik&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuldik&theme=radical) <br>
+![](https://komarev.com/ghpvc/?username=kuldik&color=blueviolet&style=for-the-badge)
 
 ### 🛠 &nbsp;Tech Stack:
 Front:
