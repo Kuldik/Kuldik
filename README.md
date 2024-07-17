@@ -32,7 +32,7 @@ Utils:
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ### 🔭 I’m currently working on self-education
 - ⚡ I’m from Serbia
-- 🌱 I’m currently learning JS/REACT.JS/TypeScript
+- 🌱 I’m currently learning JS/REACT.JS/VUE/TypeScript
 - 🤔 I’m looking for help with finding job
 
 ### 🤝🏻 &nbsp;Connect with Me
