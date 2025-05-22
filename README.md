@@ -30,7 +30,7 @@ Utils:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-### 🔭 I’m currently working on self-education
+### 🔭 I’m currently working in Organic People - https://organic-people.com/
 - ⚡ I’m from Serbia
 - 🌱 I’m currently learning JS/REACT.JS/VUE/TypeScript
 - 🤔 I’m looking for help with finding job
