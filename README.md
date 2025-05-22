@@ -31,9 +31,7 @@ Utils:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ### 🔭 I’m currently working in Organic People - https://organic-people.com/
-- ⚡ I’m from Serbia
-- 🌱 I’m currently learning JS/REACT.JS/VUE/TypeScript
-- 🤔 I’m looking for help with finding job
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:tim.klimenkoo@gmail.com" style: display: flex align-itmes: center><img src="https://img.shields.io/badge/-tim.klimenkoo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
