@@ -4,7 +4,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuldik&theme=radical) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuldik&theme=radical) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldik&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuldik&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kuldik&theme=radical&utcOffset=3) <br>
 ![](https://komarev.com/ghpvc/?username=kuldik&color=blueviolet&style=for-the-badge)
 
 ### 🛠 &nbsp;Tech Stack:
