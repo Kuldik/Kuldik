@@ -1,5 +1,5 @@
 # 👋 &nbsp;Hey there! I'm Tim
-## I'm a Frotend Developer, under mentorship https://github.com/Lbdevaa
+## I'm a Fullstack Developer
 ## My porfolio - https://kuldik.github.io/my_portfolio/
 
 ### ⚙️ &nbsp;GitHub Analytics 
